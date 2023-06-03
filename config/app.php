@@ -167,6 +167,7 @@ return [
          */
         Jenssegers\Mongodb\MongodbServiceProvider::class,
         Tymon\JWTAuth\Providers\LaravelServiceProvider::class,
+        App\Providers\RepositoryServiceProvider::class,
         /*
          * Application Service Providers...
          */
