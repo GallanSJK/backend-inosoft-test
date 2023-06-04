@@ -168,6 +168,7 @@ return [
         Jenssegers\Mongodb\MongodbServiceProvider::class,
         Tymon\JWTAuth\Providers\LaravelServiceProvider::class,
         App\Providers\RepositoryServiceProvider::class,
+        PrettyRoutes\ServiceProvider::class,
         /*
          * Application Service Providers...
          */
