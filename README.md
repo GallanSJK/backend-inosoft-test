@@ -15,9 +15,9 @@ Laravel 8 + PHP 8 With MongoDB 4.2 (Test PT. INOSOFT TRANS SISTEM).
 	git clone git@github.com:GallanSJK/backend-inosoft-test.git
 	# Clone dengan HTTPS
 	git clone https://github.com/GallanSJK/backend-inosoft-test.git
-  # Atau dengan mendownload folder zip
-  https://github.com/GallanSJK/backend-inosoft-test/archive/refs/heads/master.zip
 	```
+  Atau dengan mendownload folder zip
+  https://github.com/GallanSJK/backend-inosoft-test/archive/refs/heads/master.zip
 
 2. Update composer :
 
@@ -58,8 +58,6 @@ Command Untuk Generate Key :
 ```bash
 php artisan jwt:secret
 ```
-
-Command diatas untuk mengupdate file `.env` seperti `JWT_SECRET=foobar`
 
 8. Jalankan Project Laravel
 
