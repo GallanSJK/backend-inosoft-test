@@ -16,6 +16,7 @@ Laravel 8 + PHP 8 With MongoDB 4.2 (Test PT. INOSOFT TRANS SISTEM).
 	# Clone dengan HTTPS
 	git clone https://github.com/GallanSJK/backend-inosoft-test.git
   # Atau dengan mendownload folder zip
+  https://github.com/GallanSJK/backend-inosoft-test/archive/refs/heads/master.zip
 	```
 
 2. Update composer :
